@@ -1,7 +1,7 @@
 # AppointmentBooking
 
 In backend folder:
-create .env folder in which assign your values
+create .env folder in which you assign your values
 
 PORT=
 MONGO_URL=
